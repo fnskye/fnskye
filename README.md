@@ -11,7 +11,7 @@
 [![Discord](https://img.shields.io/badge/Discord-stillyoswa%235031-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/354173010950881280)
 
 Want to know more about my journey?  
-👉 [Read My Story Here](https://gist.github.com/fnskye/1ebfa1a010fc0f7f1beb7d8a7d10f17b)
+👉 [![Read My Story](https://img.shields.io/badge/📖%20Read%20My%20Story-ff69b4?style=for-the-badge)](https://gist.github.com/fnskye/de8e8d651726979fd9ac44e9ef2ff76e)
 
 <!-
 
