@@ -14,7 +14,14 @@ Want to know more about my journey?
 👉 [Read My Full Story](https://gist.github.com/fnskye/de8e8d651726979fd9ac44e9ef2ff76e)
 
 ### My GitHub Stats
-![My GitHub Stats](https://github-stats-qhm4.vercel.app/api?username=fnskye&theme=github_dark_dimmed&icons=true)
+<a href="https://github.com/fnskye/fnskye">
+  <img height=200 align="center" src="https://github-stats-qhm4.vercel.app/api?username=fnskye&theme=github_dark_dimmed&icons=true" />
+</a>
+<div>
+<a href="https://github.com/fnskye/fnskye">
+  <img height=200 align="center"
+src="https://github-stats-qhm4.vercel.app/api/top-langs/?username=fnskye&layout=compact&langs_count=20&theme=github_dark_dimmed" />
+</a>
 
 ![Profile views](https://komarev.com/ghpvc/?username=fnskye&color=blue)
 
